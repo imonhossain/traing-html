@@ -1,7 +1,25 @@
-
+h1 {
+  color: #fff;
+  background: green;
+  font-size: 29px;
+  border: 10px solid red;
+}
+.second-pragraph{
+  color: green;
+}
+.third-pragraph{
+  color: red;
+  font-size: 20px;
+}
+.first-pragraph{
+  background: #E65100;
+}
 table th{
   background: yellow;
 }
 h2{
   color: red;
+}
+body{
+  background: reed;
 }

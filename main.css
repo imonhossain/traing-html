@@ -1,0 +1,94 @@
+body{
+  /* background-color: rebeccapurple; */
+}
+/* .logo{
+  width:120px;
+}
+.menu-area{
+  background-color: black;
+  display: flex;
+  width:100%;
+  justify-content: space-between;
+}
+.menu-area a{
+  color:#fff;
+  padding: 7px;
+  display: inline-block;
+}
+.header{
+  max-width: 1200px;
+  margin: auto;
+}
+.main-content-wrapper{
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+}
+.main-content{
+  width: 800px;
+
+}
+.sidebar{
+  width: 400px;
+
+}
+.feature-image{
+  float: left;
+  width:120px;
+  padding-right: 20px;
+}
+.feture-pragraph{
+  font-size: 18px;
+}
+.sidebar-image{
+  width:32%;
+} */
+
+
+.heading6{
+  color: yellow;
+}
+.heading1, .heading2, .heading4{
+  color: rebeccapurple;
+}
+.heading3, .heading5{
+  color:green;
+}
+#heading7{
+  color: red;
+}
+.heading-group h5, .heading-group h3{
+  color:blue;
+  font-size: 30px;
+}
+p{
+ /* border-bottom: 2px dashed blue; */
+  border-style: solid;
+  border-width: 2px;
+  border-color: blue;
+}
+p.dotted{
+  border-style: dotted;
+}
+p.dashed{
+  border-style: dashed;
+}
+.box{
+  display: inline-block;
+  background: green;
+  width: 400px;
+  height: 300px;
+  margin: 20px; /* all side 20 px */
+  margin: 20px 0 0 100px; /* top:20px, left: 100px; */
+  margin:50px 200px ;/* top&bottom:50px, left&right: 200px; */
+  margin:50px 100px 200px ;/* top:50px, left&right: 100px, bottom:200px; */
+  /* margin: 5px auto; */
+  margin: 0;
+  margin-left: 10px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+
+  /* All padding */
+  padding: 30px;
+}
